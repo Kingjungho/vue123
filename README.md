@@ -1,4 +1,4 @@
-# vue998
+# vue
 
 ## Project setup
 ```
